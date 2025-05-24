@@ -1,6 +1,6 @@
-# Distraction-Free Writer
+# Void Writer - A Distraction-Free Writer
 
-**Distraction-Free Writer** is a minimalist, cross-platform text editor built with Python3 with no other dependencies, designed for writers seeking a focused, distraction-free environment. Leveraging a lightweight architecture and a robust feature set, it provides a seamless writing experience that is themeable, has session persistence, and portability. 
+**Void Writer** is a minimalist, cross-platform text editor built with Python3 with no other dependencies, designed for writers seeking a focused, distraction-free environment. Leveraging a lightweight architecture and a robust feature set, it provides a seamless writing experience that is themeable, has session persistence, and portability. 
 
 
 ## Features
