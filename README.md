@@ -42,18 +42,19 @@
 ## Usage
 1. **Launch**: The editor opens in fullscreen mode with the last session’s file. Open any file you want with ctrl+o (or right click).
 2. **Context Menu**: Right-click to access options (Settings, Save, Open, Toggle Fullscreen, Exit).
-4. **Settings**:
+3. **Settings**:
    - Press `F12` or right click to open the settings popup.
    - Configure font, theme, autosave interval, text width, typewriter position, and word count display.
    - Custom themes allow hex color inputs for background and foreground.
    - Click "Apply" to save changes or "Close" to discard.
-5. **Hotkeys**:
+4. **Hotkeys**:
    - `Ctrl+O`: Open a file.
    - `Ctrl+S`: Save as.
    - `F11`: Toggle fullscreen.
    - `F12`: Open settings.
    - `Esc`: Exit.
-6. **File Management**:
+5. **File Management**:
+   - Keep files in the same folder for portability.
    - Autosave runs every 10 seconds, which can be changed in settings.
    - Large deletions (>3000 characters) trigger backups.
 
