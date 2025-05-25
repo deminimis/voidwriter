@@ -1,4 +1,5 @@
 # Void Writer - A Distraction-Free Writer
+<img src="https://github.com/deminimis/voidwriter/blob/main/assets/logo.png" alt="Description" width="200">
 
 **Void Writer** is a minimalist, cross-platform text editor built with Python3 with no other dependencies, designed for writers seeking a focused, distraction-free environment. Leveraging a lightweight architecture and a robust feature set, it provides a seamless writing experience that is themeable, has session persistence, and portability. 
 
@@ -21,6 +22,8 @@
 - **Undo Support**: Built-in undo stack for the text area, preserving editing history.
 - **Responsive Layout**: Dynamically centers the text area based on window size and font metrics, ensuring optimal readability.
 
+<img src="https://github.com/deminimis/voidwriter/blob/main/assets/screenshot1.png" alt="Description" width="750">
+<img src="https://github.com/deminimis/voidwriter/blob/main/assets/screenshot3.png" alt="Description" width="1000"> <img src="https://github.com/deminimis/voidwriter/blob/main/assets/screenshot2.png" alt="Description" width="1000">
 
 ## Installation
 
